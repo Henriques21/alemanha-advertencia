@@ -1,0 +1,21 @@
+{
+
+  "clientId": "1475966074561368327",
+  "guildId": "1245672744566263809",
+
+  "canalPrivado": "1475977109745828022",
+  "canalPublico": "1475977315229110332",
+
+  "cargoStaff": "1474900048180543678",
+
+  "cargoLeve": "1475338181011574916",
+  "cargoMedio": "1475338264981274625",
+  "cargoGrave": "1475338362326876181",
+
+  "roleAdv1": "1475338181011574916",
+  "roleAdv2": "1475964835526348901",
+  "roleAdv3": "1475965208936710399",
+
+  "logoURL": "https://imgur.com/NO9qpCn.png",
+  "bannerURL": "https://imgur.com/rQwak6N.png"
+}
