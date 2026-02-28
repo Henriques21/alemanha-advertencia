@@ -1,3 +1,4 @@
+console.log("TOKEN NO RENDER:", process.env.DISCORD_TOKEN);
 require("./server");
 const {
   Client,
@@ -293,5 +294,6 @@ cron.schedule("0 * * * *", () => {
     }
   });
 });
+
 
 client.login(process.env.DISCORD_TOKEN);
